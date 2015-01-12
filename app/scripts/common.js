@@ -1,0 +1,1 @@
+var Host="http://www.dailymed.info";

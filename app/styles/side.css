@@ -1,0 +1,215 @@
+@charset "utf-8";
+.focus {
+	float: left;
+	overflow: hidden;
+	position: relative;
+}
+.focus #timdiv {
+	width: 708px;
+	height: 348px;
+	float: left;
+	overflow: hidden;
+	position: relative;
+	background:#FFF;
+}
+.focus .slider {
+	position: absolute;
+}
+.focus .slidepic {
+	float: left;
+	overflow: hidden;
+	position: relative;
+	display:block;
+	padding:0 !important;
+	margin:0;
+}
+.focus ul li div {
+	/*position: absolute;
+	overflow: hidden;*/
+}
+.focus .btnBg {
+	position: absolute;
+	display:none;
+	left: 0;
+	bottom: 0;
+}
+.focus .btn {
+	position: absolute;
+	height: 12px;
+	padding: 15px 15px;
+	right: 0;
+	bottom: 0;
+}
+.focus .btn span {
+	display: inline-block;
+	_display: inline;
+	_zoom: 1;
+	width: 10px;
+	height: 10px;
+	_font-size: 0;
+	margin-left: 5px;
+	cursor: pointer;
+	background: #fff;
+	border:1px solid #ccc;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+.focus .btn span.on {
+	background: #e44036;
+}
+.focus .preNext {
+	width: 45px;
+	height: 100px;
+	position: absolute;
+	top: 120px;
+	/*background: url(../img/sprite.png) no-repeat 0 0;*/
+	cursor: pointer;
+	display:none;
+}
+.focus .pre {
+	left: 0;
+}
+.focus .next {
+	right: 0;
+	background-position: right top;
+}
+
+.focus .pret {
+	margin-top:100px;
+	padding:0 135px;
+	font-size:16px;
+	color:#f60;
+}
+.focus .pret h1{
+	font-size:20px;
+	line-height:20px;
+}
+.focus .preb {
+	display:block;
+	margin:40px 155px;
+	text-align:center;
+	width:380px;
+	height:20px;
+	line-height:20px;
+	border:1px solid #ccc;
+	background:#F60;
+	color:#FFF;	
+	padding:10px;
+	font-size:14px;
+	text-decoration:none;
+	font-weight:bold;
+	position:relative;
+	float:left;
+}
+.focus .preb:hover {
+	background:#F30;
+}
+
+.focus2 {
+	float: left;
+	overflow: hidden;
+	position: relative;
+}
+.focus2 #timdiv {
+	width: 708px;
+	height: 348px;
+	float: left;
+	overflow: hidden;
+	position: relative;
+	background:#FFF;
+}
+.focus2 .slider {
+	position: absolute;
+}
+.focus2 .slidepic {
+	float: left;
+	overflow: hidden;
+	position: relative;
+	display:block;
+	padding:0 !important;
+	margin:0;
+}
+.focus2 ul li div {
+	/*position: absolute;
+	overflow: hidden;*/
+}
+.focus2 .btnBg {
+	position: absolute;
+	display:none;
+	left: 0;
+	bottom: 0;
+}
+.focus2 .btn {
+	position: absolute;
+	height: 12px;
+	padding: 15px 15px;
+	right: 0;
+	bottom: 0;
+}
+.focus2 .btn span {
+	display: inline-block;
+	_display: inline;
+	_zoom: 1;
+	width: 10px;
+	height: 10px;
+	_font-size: 0;
+	margin-left: 5px;
+	cursor: pointer;
+	background: #fff;
+	border:1px solid #ccc;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+.focus2 .btn span.on {
+	background: #fff;
+}
+.focus2 .preNext {
+	width: 45px;
+	height: 100px;
+	position: absolute;
+	top: 120px;
+	/*background: url(../img/sprite.png) no-repeat 0 0;*/
+	cursor: pointer;
+	display:none;
+}
+.focus2 .pre {
+	left: 0;
+}
+.focus2 .next {
+	right: 0;
+	background-position: right top;
+}
+
+.focus2 .pret {
+	margin-top:100px;
+	padding:0 135px;
+	font-size:16px;
+	color:#f60;
+}
+.focus2 .pret h1{
+	font-size:20px;
+	line-height:20px;
+}
+.focus2 .preb {
+	display:block;
+	margin:40px 155px;
+	text-align:center;
+	width:380px;
+	height:20px;
+	line-height:20px;
+	border:1px solid #ccc;
+	background:#F60;
+	color:#FFF;	
+	padding:10px;
+	font-size:14px;
+	text-decoration:none;
+	font-weight:bold;
+	position:relative;
+	float:left;
+}
+.focus2 .preb:hover {
+	background:#F30;
+}
+
